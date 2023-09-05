@@ -1,1 +1,1 @@
-m3t4ldood.github.io/emojiMinesweeper
+https://m3t4ldood.github.io/emojiMinesweeper
